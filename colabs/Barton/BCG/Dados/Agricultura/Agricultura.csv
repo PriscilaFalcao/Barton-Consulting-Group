@@ -1,0 +1,57 @@
+Municipio,Área destinada à colheita (Hectares),Área colhida (Hectares),Quantidade produzida (Toneladas),Rendimento médio da produção (Quilogramas por Hectare),Valor da produção (Mil Reais),Plantação,Área plantada (Hectares)
+      Inhapi,4.0,4.0,56.0,14000.0,101.0,2022; Banana (cacho),
+      Mata Grande,73.0,73.0,1052.0,14411.0,2014.0,2022; Banana (cacho),
+      Inhapi,4.0,4.0,4.0,1000.0,17.0,2022; Castanha de caju,
+      Mata Grande,8.0,8.0,7.0,875.0,27.0,2022; Castanha de caju,
+      Inhapi,1.0,1.0,7.0,7000.0,8.0,2022; Coco-da-baía*,
+      Inhapi,2.0,2.0,15.0,7500.0,48.0,2022; Goiaba,
+      Mata Grande,2.0,2.0,16.0,8000.0,42.0,2022; Goiaba,
+      Inhapi,2.0,2.0,28.0,14000.0,39.0,2022; Laranja,
+      Mata Grande,10.0,10.0,110.0,11000.0,176.0,2022; Laranja,
+      Inhapi,1.0,1.0,5.0,5000.0,12.0,2022; Limão,
+      Inhapi,2.0,2.0,42.0,21000.0,54.0,2022; Mamão,
+      Mata Grande,14.0,14.0,301.0,21500.0,501.0,2022; Mamão,
+      Inhapi,2.0,2.0,16.0,8000.0,29.0,2022; Manga,
+      Mata Grande,7.0,7.0,69.0,9857.0,138.0,2022; Manga,
+      Inhapi,1.0,1.0,14.0,14000.0,24.0,2022; Maracujá,
+      Mata Grande,15.0,15.0,190.0,12667.0,673.0,2022; Maracujá,
+      Mata Grande,,10.0,5.0,500.0,13.0,2022; Algodão herbáceo (em c...,10.0
+      Inhapi,,3.0,24.0,8000.0,44.0,2022; Batata-doce,3.0
+      Mata Grande,,25.0,1300.0,52000.0,156.0,2022; Cana-de-açúcar,25.0
+      Inhapi,,95.0,55.0,579.0,210.0,2022; Feijão (em grão),1540.0
+      Mata Grande,,220.0,132.0,600.0,527.0,2022; Feijão (em grão),1550.0
+      Inhapi,,76.0,720.0,9474.0,865.0,2022; Mandioca,76.0
+      Mata Grande,,190.0,1740.0,9158.0,2182.0,2022; Mandioca,190.0
+      Inhapi,,25.0,550.0,22000.0,686.0,2022; Melancia,25.0
+      Mata Grande,,152.0,3691.0,24283.0,4066.0,2022; Melancia,152.0
+      Inhapi,,7.0,180.0,25714.0,450.0,2022; Melão,7.0
+      Mata Grande,,70.0,2310.0,33000.0,6122.0,2022; Melão,80.0
+      Inhapi,,160.0,133.0,831.0,211.0,2022; Milho (em grão),1600.0
+      Mata Grande,,600.0,540.0,900.0,864.0,2022; Milho (em grão),1500.0
+      Inhapi,,2.0,82.0,41000.0,208.0,2022; Tomate,2.0
+      Mata Grande,,100.0,4200.0,42000.0,10391.0,2022; Tomate,100.0
+      Caxingó,,424.0,737.0,1738.0,995.0,2022; Arroz (em casca),424.0
+      Caxingó,,101.0,40.0,396.0,160.0,2022; Feijão (em grão),101.0
+      Caxingó,,94.0,940.0,10000.0,470.0,2022; Mandioca,94.0
+      Caxingó,,5.0,87.0,17400.0,87.0,2022; Melancia,5.0
+      Caxingó,,101.0,71.0,703.0,96.0,2022; Milho (em grão),101.0
+      Caxingó,8.0,8.0,3.0,375.0,10.0,2022; Castanha de caju,
+      Cocal,10.0,10.0,80.0,8000.0,160.0,2022; Banana (cacho),
+      Cocal,4422.0,4422.0,1548.0,350.0,5418.0,2022; Castanha de caju,
+      Cocal dos Alves,3441.0,3441.0,1307.0,380.0,4444.0,2022; Castanha de caju,
+      Cocal,12.0,12.0,72.0,6000.0,72.0,2022; Coco-da-baía*,
+      Cocal,10.0,10.0,50.0,5000.0,88.0,2022; Laranja,
+      Cocal,15.0,15.0,150.0,10000.0,270.0,2022; Manga,
+      Cocal,,410.0,759.0,1851.0,941.0,2022; Arroz (em casca),410.0
+      Cocal,,17.0,510.0,30000.0,107.0,2022; Cana-de-açúcar,17.0
+      Cocal,,16.0,6.0,375.0,46.0,2022; Fava (em grão),16.0
+      Cocal,,5825.0,1631.0,280.0,6932.0,2022; Feijão (em grão),5825.0
+      Cocal dos Alves,,965.0,286.0,296.0,1401.0,2022; Feijão (em grão),965.0
+      Cocal,,5196.0,57156.0,11000.0,29721.0,2022; Mandioca,5196.0
+      Cocal dos Alves,,940.0,9400.0,10000.0,4700.0,2022; Mandioca,940.0
+      Cocal,,5774.0,4041.0,700.0,4849.0,2022; Milho (em grão),5774.0
+      Cocal dos Alves,,965.0,675.0,699.0,911.0,2022; Milho (em grão),965.0
+      Cocal,,355.0,1118.0,3149.0,3253.0,2022; Soja (em grão),355.0
+      Manari,,210.0,68.0,324.0,282.0,2022; Feijão (em grão),950.0
+      Manari,,14.0,59.0,4214.0,53.0,2022; Mandioca,14.0
+      Manari,,390.0,146.0,374.0,212.0,2022; Milho (em grão),1200.0
