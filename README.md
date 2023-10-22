@@ -104,10 +104,10 @@ Agora que você tem o notebook Jupyter aberto no VSCode, siga estas etapas para 
   &emsp;| Registros_Administrativos <br>
   &emsp;| Transportes <br>
   &emsp;| DescritivoBase <br>
-|--> Docs<br>
+|--> Documentação<br>
   &emsp;| Documentação <br>
 | Mapa.html<br>
-| Notebook oficial (python).ipynb<br>
+| Notebook_Oficial_Python.ipynb<br>
 | README.md<br>
 
 
